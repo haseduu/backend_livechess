@@ -1,0 +1,5 @@
+*.env
+.env
+venv
+__pycache__
+updater_db_better_chess
